@@ -81,7 +81,7 @@ h1 > a[href="https://kienstra.github.io/"] {
 </style>
 
 <div class="policebot-hero">
-  <img src="https://via.placeholder.com/800x400/1e3a8a/ffffff?text=Oficial+de+Seguridad+Mexicana" alt="Avatar de Oficial de Seguridad Mexicana">
+  <img src="img/" alt="Avatar de Oficial de Seguridad Mexicana">
   <div class="policebot-hero-content">
     <h1>PoliceBot: Seguridad Inteligente para el Mundial 2026</h1>
     <p>
