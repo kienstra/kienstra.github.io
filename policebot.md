@@ -169,6 +169,7 @@ h1 > a[href="https://kienstra.github.io/"] {
 </div>
 
 <div class="policebot-section">
+  <img src="images/demo.png" alt="demo de PoliceBot">
   <h2>Comparativa: PoliceBot vs Apps Tradicionales</h2>
   <table class="policebot-table">
     <thead>
