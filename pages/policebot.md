@@ -5,6 +5,9 @@ description: Agente de voz con avatar que salva vidas en eventos masivos usando 
 ---
 
 <style>
+h1 > a[href="https://kienstra.github.io/"] {
+  display: none !important;
+}
 .policebot-hero {
   display: flex;
   align-items: center;
