@@ -210,3 +210,13 @@ h1 > a[href="https://kienstra.github.io/"] {
     PoliceBot no es un chatbot tradicional. Es tu oficial de policía personal, disponible en todo momento para protegerte y guiarte.
   </div>
 </div>
+
+<div class="policebot-section" style="text-align: center;">
+  <h2>¡Pruébalo Ahora!</h2>
+  <p>
+    Experimenta PoliceBot y descubre cómo puede ayudarte en situaciones reales.<br>
+    <a href="https://policebot-demo.example.com" style="display: inline-block; background: #1e3a8a; color: #fff; padding: 1rem 2rem; border-radius: 8px; font-size: 1.2rem; text-decoration: none; margin-top: 1rem;">
+      Probar el Chatbot
+    </a>
+  </p>
+</div>
